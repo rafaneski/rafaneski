@@ -5,7 +5,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaneski&layout=compact&hide_border=true&title_color=ef233c&text_color=f77f00&bg_color=0d1117" />
 </div>
  
-![Contribution](https://activity-graph.herokuapp.com/graph?username=rafaneski&theme=gotham&hide_border=true&area=true&color=ef233c&line=f77f00&point=fcbf49) 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=rafaneski&theme=gotham&hide_border=true&area=true&color=ef233c&line=f77f00&point=fcbf49&area_color=ef233c) 
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
