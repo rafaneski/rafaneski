@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ef233c&height=180&section=header&text=Rafael Jageneski Nonato&fontSize=30&fontColor=f77f00&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ef233c&height=180&section=header&text=Rafael Jageneski&fontSize=30&fontColor=f77f00&animation=twinkling&fontAlignY=35"/> 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaneski&show_icons=true&count_private=true&hide_border=true&title_color=ef233c&icon_color=ef233c&text_color=f77f00&bg_color=0d1117" alt="rafaneski github stats" /> 
